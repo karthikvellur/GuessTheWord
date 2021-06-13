@@ -50,6 +50,7 @@ class GameFragment : Fragment() {
                 false
         )
 
+
         // Create and initialize a GameViewModel using ViewModelProviders (inbuilt class)
         // Which fragment is specified by 'this' and also the ViewModel associated - GameViewModel
         // 'ViewModelProviders' restablishes connectiong with existing ViewModel when there are configuration changes (like screen rotation)
